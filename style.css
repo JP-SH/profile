@@ -1,5 +1,5 @@
 body {
-  background-color: rgba(128, 128, 128, 0.865);
+  background-color: rgba(0,0,0);
 }
 
 .container {
@@ -14,7 +14,7 @@ body {
 }
 
 .card1 {
-background-color:rgb(121, 98, 98);
+background-color:rgb(63,0,113);
 border-radius: 5px;
 box-shadow: 2px 2px 3px white;
 text-align: center;
@@ -23,7 +23,7 @@ padding: 7px;
 }
 
 .card2 {
-  background-color:rgb(121, 98, 98);
+  background-color:rgb(251,37,118);
   border-radius: 5px;
   box-shadow: 2px 2px 3px white;
   text-align: center;
@@ -32,14 +32,14 @@ padding: 7px;
 }
 
 h1 {
-  color: rgb(86, 63, 98);
+  color: rgb(230,203,168);
   font-size:35px;
   font-family: 'Raleway', sans-serif;
   text-align: center;
 }
 
 h2 {
- color: rgb(91, 8, 103);
+ color: rgb(230,203,168);
  font-size: 15px;
  font-family: 'Raleway', sans-serif;
  text-align: center;
@@ -49,10 +49,11 @@ p {
   font-size: 11px;
   font-family: 'Open Sans', sans-serif;
   text-align: center;
+  color: rgb(230,203,168);
 }
 
 button {
-  background-color: brown;
+  background-color: rgb(212, 35, 65);
   color: white;
 }
 
